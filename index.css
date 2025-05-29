@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: rgb(0, 55, 255);
+}
+p,ul,td,a{
+    color: blueviolet;
+    font-size:20px;
+}
+img{
+    height:400px;
+    width: 400px;
+    border-radius: 100px;
+}
+hr{
+border-style: none;
+border-top-style:dotted ;
+border-width: 5px;
+width: 5px;
+}
