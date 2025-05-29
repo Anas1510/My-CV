@@ -1,11 +1,11 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(145, 1, 248);
 }
 h1{
-    color: rgb(0, 55, 255);
+    color: rgb(6, 6, 6);
 }
 p,ul,td,a{
-    color: blueviolet;
+    color: rgb(240, 252, 5);
     font-size:20px;
 }
 img{
@@ -17,5 +17,5 @@ hr{
 border-style: none;
 border-top-style:dotted ;
 border-width: 5px;
-width: 5px;
+width: 5%;
 }
